@@ -1,0 +1,15 @@
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.deps.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.runtimeconfig.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.AssemblyInfoInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.AssemblyInfo.cs
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.csproj.CoreCompileInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.sourcelink.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/refint/P2CodeExecution.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.genruntimeconfig.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P2CodeExecution/P2CodeExecution/obj/Debug/net8.0/ref/P2CodeExecution.dll

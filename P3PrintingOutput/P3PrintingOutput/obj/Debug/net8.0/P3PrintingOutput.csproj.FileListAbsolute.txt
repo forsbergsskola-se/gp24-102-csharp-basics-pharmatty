@@ -1,0 +1,15 @@
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.AssemblyInfoInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.AssemblyInfo.cs
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.csproj.CoreCompileInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.sourcelink.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.deps.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.runtimeconfig.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/refint/P3PrintingOutput.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.genruntimeconfig.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P3PrintingOutput/P3PrintingOutput/obj/Debug/net8.0/ref/P3PrintingOutput.dll
