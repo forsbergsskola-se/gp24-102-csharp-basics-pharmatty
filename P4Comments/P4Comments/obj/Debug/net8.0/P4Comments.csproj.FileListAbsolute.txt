@@ -1,0 +1,15 @@
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/bin/Debug/net8.0/P4Comments
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/bin/Debug/net8.0/P4Comments.deps.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/bin/Debug/net8.0/P4Comments.runtimeconfig.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/bin/Debug/net8.0/P4Comments.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/bin/Debug/net8.0/P4Comments.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.AssemblyInfoInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.AssemblyInfo.cs
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.csproj.CoreCompileInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.sourcelink.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/refint/P4Comments.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/P4Comments.genruntimeconfig.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P4Comments/P4Comments/obj/Debug/net8.0/ref/P4Comments.dll
