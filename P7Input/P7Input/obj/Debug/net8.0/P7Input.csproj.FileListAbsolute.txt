@@ -1,0 +1,15 @@
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.AssemblyInfoInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.AssemblyInfo.cs
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.csproj.CoreCompileInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.sourcelink.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/bin/Debug/net8.0/P7Input
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/bin/Debug/net8.0/P7Input.deps.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/bin/Debug/net8.0/P7Input.runtimeconfig.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/bin/Debug/net8.0/P7Input.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/bin/Debug/net8.0/P7Input.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/refint/P7Input.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/P7Input.genruntimeconfig.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/Debug/net8.0/ref/P7Input.dll
