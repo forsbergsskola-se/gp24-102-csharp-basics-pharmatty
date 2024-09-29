@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/P7Input.csproj": {}
+    "C:\\Users\\Mathias\\Documents\\GitHub\\gp24-102-csharp-basics-pharmatty\\P7Input\\P7Input\\P7Input.csproj": {}
   },
   "projects": {
-    "/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/P7Input.csproj": {
+    "C:\\Users\\Mathias\\Documents\\GitHub\\gp24-102-csharp-basics-pharmatty\\P7Input\\P7Input\\P7Input.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/P7Input.csproj",
+        "projectUniqueName": "C:\\Users\\Mathias\\Documents\\GitHub\\gp24-102-csharp-basics-pharmatty\\P7Input\\P7Input\\P7Input.csproj",
         "projectName": "P7Input",
-        "projectPath": "/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/P7Input.csproj",
-        "packagesPath": "/Users/mathias/.nuget/packages/",
-        "outputPath": "/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P7Input/P7Input/obj/",
+        "projectPath": "C:\\Users\\Mathias\\Documents\\GitHub\\gp24-102-csharp-basics-pharmatty\\P7Input\\P7Input\\P7Input.csproj",
+        "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mathias\\Documents\\GitHub\\gp24-102-csharp-basics-pharmatty\\P7Input\\P7Input\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mathias/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = P6DataTypes
-build_property.ProjectDir = /Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P6DataTypes/P6DataTypes/
+build_property.ProjectDir = C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P6DataTypes\P6DataTypes\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
