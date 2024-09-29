@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\bin\Debug\net8.0\P09_09Hypotenuse.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\bin\Debug\net8.0\P09_09Hypotenuse.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\bin\Debug\net8.0\P09_09Hypotenuse.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\bin\Debug\net8.0\P09_09Hypotenuse.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\bin\Debug\net8.0\P09_09Hypotenuse.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\refint\P09_09Hypotenuse.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\P09_09Hypotenuse.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_09Hypotenuse\P09_09Hypotenuse\obj\Debug\net8.0\ref\P09_09Hypotenuse.dll

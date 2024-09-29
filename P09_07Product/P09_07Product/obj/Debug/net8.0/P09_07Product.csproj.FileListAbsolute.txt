@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\bin\Debug\net8.0\P09_07Product.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\bin\Debug\net8.0\P09_07Product.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\bin\Debug\net8.0\P09_07Product.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\bin\Debug\net8.0\P09_07Product.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\bin\Debug\net8.0\P09_07Product.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\refint\P09_07Product.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\P09_07Product.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_07Product\P09_07Product\obj\Debug\net8.0\ref\P09_07Product.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P09_10SecondsToMinutes/1.0.0": {
+        "runtime": {
+          "P09_10SecondsToMinutes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P09_10SecondsToMinutes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

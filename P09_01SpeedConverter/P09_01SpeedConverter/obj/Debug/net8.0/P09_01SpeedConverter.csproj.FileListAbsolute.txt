@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\bin\Debug\net8.0\P09_01SpeedConverter.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\bin\Debug\net8.0\P09_01SpeedConverter.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\bin\Debug\net8.0\P09_01SpeedConverter.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\bin\Debug\net8.0\P09_01SpeedConverter.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\bin\Debug\net8.0\P09_01SpeedConverter.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\refint\P09_01SpeedConverter.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\P09_01SpeedConverter.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_01SpeedConverter\P09_01SpeedConverter\obj\Debug\net8.0\ref\P09_01SpeedConverter.dll

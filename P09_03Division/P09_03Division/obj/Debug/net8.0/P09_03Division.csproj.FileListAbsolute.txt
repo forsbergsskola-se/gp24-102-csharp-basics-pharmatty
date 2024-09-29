@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\bin\Debug\net8.0\P09_03Division.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\bin\Debug\net8.0\P09_03Division.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\bin\Debug\net8.0\P09_03Division.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\bin\Debug\net8.0\P09_03Division.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\bin\Debug\net8.0\P09_03Division.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\refint\P09_03Division.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\P09_03Division.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_03Division\P09_03Division\obj\Debug\net8.0\ref\P09_03Division.dll
