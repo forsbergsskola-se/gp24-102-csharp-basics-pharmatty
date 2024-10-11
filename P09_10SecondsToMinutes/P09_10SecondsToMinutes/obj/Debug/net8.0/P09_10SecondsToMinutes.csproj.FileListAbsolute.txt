@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\bin\Debug\net8.0\P09_10SecondsToMinutes.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\bin\Debug\net8.0\P09_10SecondsToMinutes.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\bin\Debug\net8.0\P09_10SecondsToMinutes.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\bin\Debug\net8.0\P09_10SecondsToMinutes.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\bin\Debug\net8.0\P09_10SecondsToMinutes.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\refint\P09_10SecondsToMinutes.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\P09_10SecondsToMinutes.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_10SecondsToMinutes\P09_10SecondsToMinutes\obj\Debug\net8.0\ref\P09_10SecondsToMinutes.dll

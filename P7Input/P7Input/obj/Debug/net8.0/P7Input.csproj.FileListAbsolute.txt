@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\bin\Debug\net8.0\P7Input.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\bin\Debug\net8.0\P7Input.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\bin\Debug\net8.0\P7Input.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\bin\Debug\net8.0\P7Input.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\bin\Debug\net8.0\P7Input.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\refint\P7Input.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\P7Input.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P7Input\P7Input\obj\Debug\net8.0\ref\P7Input.dll

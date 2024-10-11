@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\bin\Debug\net8.0\P09_06Negation.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\bin\Debug\net8.0\P09_06Negation.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\bin\Debug\net8.0\P09_06Negation.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\bin\Debug\net8.0\P09_06Negation.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\bin\Debug\net8.0\P09_06Negation.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\refint\P09_06Negation.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\P09_06Negation.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_06Negation\P09_06Negation\obj\Debug\net8.0\ref\P09_06Negation.dll

@@ -1,0 +1,15 @@
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/bin/Debug/net8.0/P5Variables
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/bin/Debug/net8.0/P5Variables.deps.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/bin/Debug/net8.0/P5Variables.runtimeconfig.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/bin/Debug/net8.0/P5Variables.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/bin/Debug/net8.0/P5Variables.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.AssemblyInfoInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.AssemblyInfo.cs
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.csproj.CoreCompileInputs.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.sourcelink.json
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/refint/P5Variables.dll
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.pdb
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/P5Variables.genruntimeconfig.cache
+/Users/mathias/Documents/GitHub/gp24-102-csharp-basics-pharmatty/P5Variables/P5Variables/obj/Debug/net8.0/ref/P5Variables.dll

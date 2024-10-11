@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\bin\Debug\net8.0\P09_04Remainder.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\bin\Debug\net8.0\P09_04Remainder.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\bin\Debug\net8.0\P09_04Remainder.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\bin\Debug\net8.0\P09_04Remainder.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\bin\Debug\net8.0\P09_04Remainder.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\refint\P09_04Remainder.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\P09_04Remainder.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_04Remainder\P09_04Remainder\obj\Debug\net8.0\ref\P09_04Remainder.dll

@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\bin\Debug\net8.0\P09_08BMI.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\bin\Debug\net8.0\P09_08BMI.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\bin\Debug\net8.0\P09_08BMI.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\bin\Debug\net8.0\P09_08BMI.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\bin\Debug\net8.0\P09_08BMI.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\refint\P09_08BMI.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\P09_08BMI.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_08BMI\P09_08BMI\obj\Debug\net8.0\ref\P09_08BMI.dll

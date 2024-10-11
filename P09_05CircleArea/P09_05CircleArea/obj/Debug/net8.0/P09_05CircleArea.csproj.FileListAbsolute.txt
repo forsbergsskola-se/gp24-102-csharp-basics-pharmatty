@@ -1,0 +1,15 @@
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.sourcelink.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\bin\Debug\net8.0\P09_05CircleArea.exe
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\bin\Debug\net8.0\P09_05CircleArea.deps.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\bin\Debug\net8.0\P09_05CircleArea.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\bin\Debug\net8.0\P09_05CircleArea.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\bin\Debug\net8.0\P09_05CircleArea.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\refint\P09_05CircleArea.dll
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.pdb
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\P09_05CircleArea.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\gp24-102-csharp-basics-pharmatty\P09_05CircleArea\P09_05CircleArea\obj\Debug\net8.0\ref\P09_05CircleArea.dll

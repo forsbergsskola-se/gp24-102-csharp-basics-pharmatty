@@ -1,0 +1,14 @@
+C:\Users\Mathias\RiderProjects\Nim\Nim\bin\Debug\net8.0\Nim.exe
+C:\Users\Mathias\RiderProjects\Nim\Nim\bin\Debug\net8.0\Nim.deps.json
+C:\Users\Mathias\RiderProjects\Nim\Nim\bin\Debug\net8.0\Nim.runtimeconfig.json
+C:\Users\Mathias\RiderProjects\Nim\Nim\bin\Debug\net8.0\Nim.dll
+C:\Users\Mathias\RiderProjects\Nim\Nim\bin\Debug\net8.0\Nim.pdb
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\Nim.AssemblyInfoInputs.cache
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\Nim.AssemblyInfo.cs
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\Nim.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\Nim.dll
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\refint\Nim.dll
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\Nim.pdb
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\Nim.genruntimeconfig.cache
+C:\Users\Mathias\RiderProjects\Nim\Nim\obj\Debug\net8.0\ref\Nim.dll
